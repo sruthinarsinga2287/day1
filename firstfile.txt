@@ -3,3 +3,5 @@ git branch
 git add .
 git commit -m "first commit"
 git config --list
+
+git status
