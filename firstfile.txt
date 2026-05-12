@@ -5,3 +5,5 @@ git commit -m "first commit"
 git config --list
 
 git status
+
+git log --oneline
